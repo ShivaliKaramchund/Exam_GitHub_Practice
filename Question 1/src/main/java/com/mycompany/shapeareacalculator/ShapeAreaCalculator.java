@@ -33,6 +33,9 @@ public class ShapeAreaCalculator {
 
 
     public static void main(String[] args) {
+        
+        
+       System.out.println("Hello people!");
        // Rectangle input and store in variables
         String lengthInput = JOptionPane.showInputDialog("Enter the rectangle length:");
         String widthInput = JOptionPane.showInputDialog("Enter the rectangle width:");
